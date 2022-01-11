@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">factorial</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="msg_error">El campo valor no puede estar vacío ni puede ser un valor negativo</string>
+</resources>
